@@ -5,4 +5,4 @@ The model was trained on Simpson Characters dataset which can be found at: https
 
 Network Architecture: 
 
-![alt text](http://url/to/littleVGG.png)
+![alt text](http://url/to/LittleVGG.png)
